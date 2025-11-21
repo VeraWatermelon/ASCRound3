@@ -690,6 +690,26 @@
               <FileType>5</FileType>
               <FilePath>.\Hardware\OLED_Font.h</FilePath>
             </File>
+            <File>
+              <FileName>PWM.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\PWM.c</FilePath>
+            </File>
+            <File>
+              <FileName>PWM.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\PWM.h</FilePath>
+            </File>
+            <File>
+              <FileName>Motor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Motor.c</FilePath>
+            </File>
+            <File>
+              <FileName>Motor.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\Motor.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -699,6 +719,16 @@
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\User\main.c</FilePath>
+            </File>
+            <File>
+              <FileName>setoff.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\setoff.c</FilePath>
+            </File>
+            <File>
+              <FileName>setoff.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\User\setoff.h</FilePath>
             </File>
             <File>
               <FileName>stm32f10x_conf.h</FileName>
